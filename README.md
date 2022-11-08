@@ -45,12 +45,24 @@ echo '<h3></h3>' >> index.html
 echo '</body>' >> index.html
 echo '</html>' >> index.html
 ```
+![Screenshot_76](https://user-images.githubusercontent.com/106797604/200611134-2dad917b-cc29-4507-b121-ab1f4cd073f1.png)
 
+THEN
+Make the script executable
+```
+chmod +x webserverGL.sh
+```
+![Screenshot_77](https://user-images.githubusercontent.com/106797604/200611660-a8de46ef-bd0e-4d7c-ace6-6beee649f1ba.png)
 
 
 ### 2. 
 - a.Commit the script to your GitHub repository 
+![Screenshot_78](https://user-images.githubusercontent.com/106797604/200613138-5e04a85f-52a4-4f52-b61f-3a6d325fc901.png)
+![Screenshot_79](https://user-images.githubusercontent.com/106797604/200613156-e5784238-a766-4a2c-8cc4-1a62d2f3c12a.png)
+
 - b.Commit the script together with README.md file to your GitHub repository
+![Screenshot_80](https://user-images.githubusercontent.com/106797604/200613168-0727e64a-df79-46a5-b3e7-13a64f39d442.png)
+
 ### 3. 
 - Answer with the repository link.
 ## Acceptance Criteria: 
